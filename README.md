@@ -3,7 +3,7 @@
 <h1>2. Control Flow Graph</h1
 ![GRAPH](https://github.com/sanevat/SI_2024_lab2_226018/assets/73078235/197639b8-f4ca-487e-a03f-cba8d084bd42)
 
-
+</br>
 <h1>3. Цикломатска комплексност</h1>
 Број на ребра - Број на јазли + 2= 36-28+2=10
 </br>
