@@ -9,8 +9,9 @@
 
 ## 3. Тест случаи според критериумот Every Branch
 Со 5 тест случаи успеав да поминам низ сите гранки. Како што е прикажано на сликава во продолжение.
+![final_image_1](https://github.com/sanevat/SI_2024_lab2_226018/assets/73078235/bacd22e5-9adf-44ec-a8d6-89c1b952edf2)
 
-![branchTest](https://github.com/sanevat/SI_2024_lab2_226018/assets/73078235/7fab69fd-2684-4f2e-b9fc-87cede69053b)
+
 
 Прв тест пример: allItems е null, што предизвикува RuntimeException со порака "allItems list can't be null!" <br>
 Втор тест пример: невалиден баркод, во баркодот има карактери букви, па се фрла RuntimeException со порака "Invalid character in item barcode!"<br>
